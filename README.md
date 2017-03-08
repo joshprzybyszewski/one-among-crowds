@@ -1,6 +1,8 @@
 # one-among-crowds
 A model of persons moving through crowds (i.e. students on campus or tourists in London).
 
+BTW I'm kind of embarassed to have this on GitHub. It's a project I've been meaning to work on for a long time now, but I haven't been able to put any time into it yet. :/
+
 ## About
 The idea for this project stemmed from walking around Iowa State University and seeing the students interact on their way to class. Each has a destination in mind, a time fram for arrival, and a walking pace. There are so many factors that are in play. Similarly, visiting London adds a whole new layer: people walking, buses driving, trains travelling, and boats sailing.
 
